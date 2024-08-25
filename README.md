@@ -15,15 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-
     <h1 align="center">Albert Jesus- Backend Develouper</h1>
         <p align="center">Albert Jesús
             Backend Developer specializing in Python
@@ -43,6 +34,3 @@ Here are some ideas to get you started:
           <img src="https://skillicons.dev/icons?i=py,mysql,cs,css,html" />
         </a>
       </p>
-    
-</body>
-</html>
