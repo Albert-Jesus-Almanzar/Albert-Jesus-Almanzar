@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Albert-Jesus-Almanzar/Albert-Jesus-Almanzar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**Albert-Jesus-Almanzar/Albert-Jesus-Almanzar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
   -  <h1 align="center">Albert Jesus- Backend Develouper</h1>
