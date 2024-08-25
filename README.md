@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **Albert-Jesus-Almanzar/Albert-Jesus-Almanzar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
     <h1 align="center">Albert Jesus- Backend Develouper</h1>
         <p align="center">Albert Jesús
