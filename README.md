@@ -5,16 +5,12 @@
 
 
   -  <h1 align="center">Albert Jesus- Backend Develouper</h1>
-        <p align="center">Albert Jesús
-            Backend Developer specializing in Python
-            and SQL. Passionate about building 
-            efficient, scalable backend systems and
-            databases. Always eager to learn and grow
-            in the field of software development, with
-             a focus on delivering high-quality, 
-             reliable solutions. Currently focused 
-             on expanding knowledge and skills 
-            in Artificial Intelligence development.</p>
+        <p align="center">
+            Soy un Estudiante de Inteligencia Artificial con orientación en análisis de datos, 
+Mi mayor fortaleza es el análisis técnico y profundo de problemas, mi fortaleza 
+es el aprendizaje rápido en cualquier tipo de entorno, lenguaje o aplicación. Me 
+apasiona el mundo del análisis de datos, y valoro mucho la responsabilidad y el 
+aprendizaje automático.</p>
       </p>
 
  -   <p align="center">
