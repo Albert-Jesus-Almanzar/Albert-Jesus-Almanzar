@@ -4,7 +4,7 @@
 <!--**Albert-Jesus-Almanzar/Albert-Jesus-Almanzar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-  -  <h1 align="center">Albert Jesus- Backend Develouper</h1>
+  -  <h1 align="center">Albert Jesus- Analista de Datos</h1>
         <p align="center">
             Soy un Estudiante de Inteligencia Artificial con orientación en análisis de datos, 
 Mi mayor fortaleza es el análisis técnico y profundo de problemas, mi fortaleza 
